@@ -1,6 +1,6 @@
 # Detecting abnormal breasts on mammogram images using wavelet energy entropy (WEE)
 
-Abnormal breasts are one of the first signs of breast cancer that can put a psychological burden on women. This is my implementation of the [paper](https://link.springer.com/article/10.1007/s11042-016-4161-0) providing a novel method to differentiate between normal and abnormal breasts based on wavelet energy entropy (WEE) and linear regression classification (LRC).
+Abnormal breasts are one of the first signs of breast cancer that can put a psychological burden on women. This is my implementation of the [paper](https://link.springer.com/article/10.1007/s11042-016-4161-0) providing a novel method to differentiate between normal and abnormal breasts based on Wavelet Energy Entropy (WEE) and linear regression classification (LRC).
 
 The preprocessing diagram:
 
