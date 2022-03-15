@@ -14,4 +14,4 @@ In brief, the region of interest (ROI) is initially identified from digital mamm
 
 Wavelet decomposition:
 
-<img src="https://github.com/Dehghan99/WEE_mammogram/blob/main/figures/Dec_4.png" alt="drawing" width="800"/>
+<img src="https://github.com/Dehghan99/WEE_mammogram/blob/main/figures/Dec_4.png" alt="drawing" width="400"/>
