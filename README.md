@@ -7,7 +7,7 @@ The preprocessing diagram:
 <img src="https://github.com/Dehghan99/WEE_mammogram/blob/main/figures/preprocessing.png" alt="drawing" width="800"/>
 
  
-In brief, the region of interest (ROI) is initially identified from digital mammograms. The ROI's WEE is then calculated, and the images are then classified using the LRC classifier. According to 10-fold cross-validation, the best classification results occur when the decomposition level is 4. Sensitivity is around 82%, specificity is around 81.5%, and accuracy is around 81.23%. (Compared to the original paper, my results are lower.)
+In brief, the region of interest (ROI) is initially identified from digital mammograms. The ROI's WEE is then calculated, and the images are then classified using the LRC classifier. According to 10-fold cross-validation, the best classification results occur when the decomposition level is 4. Sensitivity is 82%, specificity is 81.5%, and accuracy is 81.23%. (Compared to the original paper, my results are lower.)
 
 
 <img src="https://github.com/Dehghan99/WEE_mammogram/blob/main/figures/Image_1.png" alt="drawing" width="800"/>
